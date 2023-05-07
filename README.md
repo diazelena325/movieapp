@@ -9,6 +9,7 @@ Currently in Progress: Search for Star Wars movies based on title and display th
 Elena Diaz
 
 [@twitter: elenadiaz32505](https://twitter.com/ElenaDiaz32505)
+
 [@linkedin: elenadiazse](https://www.linkedin.com/in/elenadiazse/)
 
 ## Version History
@@ -18,6 +19,7 @@ Elena Diaz
 
 
 ## Acknowledgments
-Inspiration, code snippets, etc.
+
 * [SWAPI - The Star Wars API](https://swapi.dev/documentation#intro)
+* 
 * [Star Wars Visual Guide](https://starwars-visualguide.com/#/)
