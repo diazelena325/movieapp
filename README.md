@@ -21,5 +21,4 @@ Elena Diaz
 ## Acknowledgments
 
 * [SWAPI - The Star Wars API](https://swapi.dev/documentation#intro)
-* 
 * [Star Wars Visual Guide](https://starwars-visualguide.com/#/)
