@@ -7,6 +7,7 @@ Currently in Progress: Search for Star Wars movies based on title and display th
 ## Authors
 
 Elena Diaz
+
 [@twitter: elenadiaz32505](https://twitter.com/ElenaDiaz32505)
 [@linkedin: elenadiazse](https://www.linkedin.com/in/elenadiazse/)
 
